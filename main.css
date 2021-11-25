@@ -1,0 +1,22 @@
+body{
+    background-color:aqua;
+    text-align: center;
+    text-emphasis-color: fuchsia;
+}
+.part{
+    text-align: left;
+    list-style:none;
+    position:absolute;
+}
+
+.links{
+    font-family: monospace;
+    font-size: 20px;
+    float:left;
+    top: 35px;
+    left: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 8x;
+    padding-bottom: 8px;
+}
